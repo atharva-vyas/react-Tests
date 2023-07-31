@@ -1,0 +1,6 @@
+GO TO /server/index.js
+ADD ALL THE LINES BELOW THE COMMENT TO YOUR EXPRESS BACKEND
+
+GO TO /client/package.json
+ADD THE proxy VARIABLE TO YOUR package.json
+    => "proxy": "http://yourUrlHere:3000"
